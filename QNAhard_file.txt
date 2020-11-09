@@ -1,0 +1,15 @@
+Q1) odd man out
+tree
+array
+stack
+tree
+Q2) which data structure is used in music play list.
+doubly linked list
+stack
+doubly linked list
+array
+Q3)which function is used to reallocate the memory
+realloc
+malloc
+realloc
+calloc
